@@ -1,9 +1,0 @@
-# Directories to ignore
-.vscode/
-__pycache__
-virtualenv
-venv
-
-# Files to ignore
-*.pyc
-*.sqlite
